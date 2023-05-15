@@ -1,5 +1,0 @@
-print("\\test")
-print("Doesn\'t")
-print("\"Python\"")
-print("Python","\n","Lang..")
-print("Python","\t","Lang..")
